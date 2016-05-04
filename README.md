@@ -1,8 +1,6 @@
 # tutorial002-edittext
 
 <h4>You Must Edit</h4>
-
-<br>
 1. activity_main.xml <br>
 2. MainActivity.java <br>
 
